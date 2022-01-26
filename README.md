@@ -28,7 +28,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-using-html-css-grid-flexbox-media-query-vGyGp5Inr]
 - Live Site URL: [https://genesisgran.github.io/huddle-landing-page/]
 
 ## Built with
